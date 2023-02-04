@@ -5,4 +5,5 @@
 * git add - добавить файл в очередь коммита
 * git commit -m "message text" - сделать коммит с текстом message text
 
-[test](3.png)
+<image src="/3.png" alt="Текст с описанием картинки">
+
